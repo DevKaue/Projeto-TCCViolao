@@ -1,0 +1,6 @@
+@ApiTccViolao_HostAddress = http://localhost:5056
+
+GET {{ApiTccViolao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
